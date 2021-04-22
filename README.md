@@ -1,12 +1,12 @@
 
 
-I and my team has developed a python-based CLI using which one can automate multiple technologies, The list of technologies the CLI will provide are:<br />
+I have developed a python-based CLI using which one can automate multiple technologies, The list of technologies the CLI will provide are:<br />
 <strong>➡️ Linux<br /></strong>
 <strong>➡️ Docker<br /></strong>
 <strong>➡️ Hadoop<br /></strong>
 <strong>➡️ AWS<br /></strong>
 <br />
-The CLI is the result of the integration of multiple technologies with python where we have tried to automate some particular tasks as per requirement and the sub-option which the user will be able to use under the above-listed technologies are:<br />
+The CLI is the result of the integration of multiple technologies with python where I have tried to automate some particular tasks as per requirement and the sub-option which the user will be able to use under the above-listed technologies are:<br />
 <br />
 <strong>🔰 Linux( Local/Remote Command Execution )<br /></strong>
         1️⃣ Check IP Address<br />
